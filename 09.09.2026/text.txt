@@ -1,0 +1,4 @@
+lrrd
+ldll
+lrru
+ldrd
